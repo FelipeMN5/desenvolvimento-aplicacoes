@@ -5,5 +5,5 @@
 # O que é e qual a função do Adapter e do ViewHolder?
 ## O Adapter tem a função de fazer a comunicação entre o framework e a Api, ele faz a ligação entre a View e a fonte dos dados. transfomando os dados. Além disso ele pega os dados e e deixa em um formato compreensivél para o usuário
 ## O ViewHolder é um objeto criado pelo Adapter. O ViewHolder contem os dados para a vizualização das telas.
-# O que é Retrofit e porque utilizar ao invés de criar as chamasdas manualmente?
-## Retrofit é uma api que faz uma padronização com os dados transmitidos entre o aplicativo e o servidor. Com o uso do REtrofit fica mais facil implementar e polpa tempo na codificação, pois usa menos código e também polpa tempo na execução das requisições. 
+# O que é Retrofit e porque utilizar ao invés de criar as chamadas manualmente?
+## Retrofit é uma API que faz uma padronização com os dados transmitidos entre o aplicativo e o servidor. Com o uso do Retrofit fica mais fácil implementar e polpa tempo na codificação, pois usa menos código e também polpa tempo na execução das requisições. 
